@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="spring-cloud-bus-apache-kafka/spring-dynamic-runtime-configurations-client/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-bus-apache-kafka/spring-dynamic-runtime-configurations-client2/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-bus-apache-kafka/spring-dynamic-runtime-configurations-server/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-circuit-breaker-hystrix/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-cloud-gateway/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-microservice-alert/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-microservice-auth/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-microservice-echo/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-microservice-eureka/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway-security-jwt/spring-boot-microservice-hello/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-gateway/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-random-ports/spring-boot-microservice-alert/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-random-ports/spring-boot-microservice-echo/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-random-ports/spring-boot-microservice-eureka/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-random-ports/spring-boot-microservice-hello/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-trace-logs-sleuth-zipkin/spring-microservices-celsius-to-fahrenheit-converter/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-trace-logs-sleuth-zipkin/spring-microservices-eureka-server/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-microservices-trace-logs-sleuth-zipkin/spring-microservices-fahrenheit-to-celsius-converter/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-stream-kafka/spring-cloud-stream-kafka-ordercheck/src/main/java"/>
+	<classpathentry kind="src" path="spring-cloud-stream-kafka/spring-cloud-stream-kafka-ordersource/src/main/java"/>
+	<classpathentry kind="src" path="spring-dynamic-configuration-runtime/spring-dynamic-runtime-configurations-client/src/main/java"/>
+	<classpathentry kind="src" path="spring-dynamic-configuration-runtime/spring-dynamic-runtime-configurations-server/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

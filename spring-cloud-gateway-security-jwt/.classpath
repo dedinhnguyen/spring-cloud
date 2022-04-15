@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="spring-boot-cloud-gateway/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-microservice-alert/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-microservice-auth/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-microservice-echo/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-microservice-eureka/src/main/java"/>
+	<classpathentry kind="src" path="spring-boot-microservice-hello/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
